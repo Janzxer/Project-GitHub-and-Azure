@@ -4,3 +4,7 @@ Fiksailtu ja korjattu lisää juttuja
 
 The contrast between the background and the text is too low and does not meet WCAG 2.2 standards.
 Juu nääki fiksattu ilman mitää ongelmia
+
+
+The form is not currently accepting letters from scandinavian alphabets, find out if using ISO-8859-1 could be a solution to the problem.
+All good
