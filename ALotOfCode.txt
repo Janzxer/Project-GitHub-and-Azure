@@ -1,2 +1,6 @@
 Koodia, vähän lisää koodia ja virheiden korjausta.
 Fiksailtu ja korjattu lisää juttuja
+
+
+The contrast between the background and the text is too low and does not meet WCAG 2.2 standards.
+Juu nääki fiksattu ilman mitää ongelmia
