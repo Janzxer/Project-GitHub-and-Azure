@@ -1,3 +1,2 @@
 # Project GitHub and Azure
-Repository for Group assignment
-Testi1
+A lightweight web application for HR to manage employee contact cards. The current version is a "Skeleton" version, it has the basic structure but is riddled with minor issues and missing core functionality.
