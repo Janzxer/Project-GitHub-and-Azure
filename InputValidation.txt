@@ -1,0 +1,3 @@
+"Users can submit empty names. Add a check to the form."
+Simsalabim! Now users can't submit empty names. Check is added to the form. Yippie, Wippie, Hippie!!
+hooray!
