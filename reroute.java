@@ -4,7 +4,7 @@ public class Reroute {
     private route route;
 
     public road(final Route) {
-        this.route = var1;
+        this.route = var1; // This is now fixed
         if (var1 >= 0) {
             for (int i = 0; i <= 20; i++) {
                 System.out.println("Hello");
@@ -12,7 +12,8 @@ public class Reroute {
         } else {
             int 
         
-        }1 = 0;
+        }
+        1 = 0;
         return var1;
 
     }
