@@ -1,0 +1,35 @@
+/* Mobiili */
+@media (max-width: 768px) {
+    .dropdown-content {
+        left: 50%;
+        transform: translateX(-50%);
+        top: 4rem; /* Adjust spacing *//*Säädin isommaksi, ettei mene hampurilaisen päälle, kun muutin sen kokoa - U-M */
+    }
+
+    .dropbtn {
+        display: block;
+        width: 100%;
+    }
+
+    .custom-button {
+        background-color: #1E3229; /* Asetetaan painikkeen taustaväri */
+        color: #ffffff; /* Asetetaan painikkeen tekstin väri */
+        border: none; /* Poistetaan reunus */
+        padding: 0.625rem 1.25rem; /* Lisätään mukava padding */
+        border-radius: 0.3125rem; /* Pyöristetään kulmia hieman */
+        text-decoration: none; /* Poistetaan alleviivaus */
+        display: inline-block; /* Varmistetaan, että marginaalit toimivat oikein */
+    
+    }
+
+    .kukkatausta {
+        background-size: cover; /* Fiksataan taustakuvaa niin, että kuva mukautuu taustaan - Sini*/
+        height: 110vh;  
+    }
+
+    iframe {
+        max-width: 70vw;
+        max-height: 70vw;
+        margin: 1rem;
+    }
+}
