@@ -1,0 +1,5 @@
+Deleting an employee previously required nothing more than a single click, making accidental removals far too easy.
+
+A confirmation dialog has now been added before deletion is executed. Users must explicitly confirm the action, reducing the risk of unintended data loss.
+
+The dialog clearly communicates the consequence of the action, and users can safely cancel if the deletion was triggered by mistake. Employees are no longer sent into oblivion without a second thought.
